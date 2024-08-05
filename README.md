@@ -12,7 +12,7 @@ Agario is a simple game where you control a cell and aim to grow by consuming sm
 
 ### Incomplete Level
 
-![Incomplete Level](Incomplete_Level.png)
+![Incomplete Level](Incomplete Level.png)
 
 ### Complete Level
 
