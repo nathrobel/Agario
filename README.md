@@ -2,7 +2,7 @@
 
 ## Game Overview
 
-Agario is a  game where you control a cell and aim to grow by consuming smaller cells with the same colour. This game is implemented using Python and utilises the tkinter library for the graphical interface.
+Agario is a game where you control a cell with the goal of growing larger by consuming smaller cells of the same color within a set timeframe. The game features multiple levels, with increasing difficulty as you progress. Your performance is tracked and displayed on a leaderboard. Developed using Python and the tkinter library.
 
 ## Screenshots
 
