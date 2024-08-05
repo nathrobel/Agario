@@ -2,7 +2,7 @@
 
 ## Game Overview
 
-Agario is a simple game where you control a cell and aim to grow by consuming smaller cells. This game is implemented using Python and utilizes the tkinter library for the graphical interface.
+Agario is a  game where you control a cell and aim to grow by consuming smaller cells with the same colour. This game is implemented using Python and utilises the tkinter library for the graphical interface.
 
 ## Screenshots
 
@@ -27,7 +27,7 @@ Agario is a simple game where you control a cell and aim to grow by consuming sm
 To run Agario, you need to have Python installed. Ensure you have Python 3.x. You can download it from [python.org](https://www.python.org/).
 
 Additionally, you will need to install the required Python libraries. You can install them using pip. For example: Tkinter. 
-Run `pip install python-tk` in your terminal.
+Run pip install python-tk in your terminal.
 
 ## Credits
 
