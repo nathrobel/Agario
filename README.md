@@ -8,28 +8,27 @@ Agario is a simple game where you control a cell and aim to grow by consuming sm
 
 ### Rules
 
-![Rules](Rules.png)
+<img src="Rules.png" alt="Rules" width="400"/>
 
 ### Incomplete Level
 
-![Incomplete Level](Incomplete_Level.png)
+<img src="Incomplete_Level.png" alt="Incomplete Level" width="400"/>
 
 ### Complete Level
 
-![Complete Level](Complete.png)
+<img src="Complete.png" alt="Complete Level" width="400"/>
 
 ### Homepage
 
-![Homepage](Homepage.png)
+<img src="Homepage.png" alt="Homepage" width="400"/>
 
 ## Prerequisites
 
 To run Agario, you need to have Python installed. Ensure you have Python 3.x. You can download it from [python.org](https://www.python.org/).
 
 Additionally, you will need to install the required Python libraries. You can install them using pip. For example: Tkinter. 
-Run pip install python-tk in your terminal.
-
-
+Run `pip install python-tk` in your terminal.
 
 ## Credits
+
 Nathan Robel
